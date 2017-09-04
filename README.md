@@ -11,7 +11,4 @@ User IDs and Passwords :
 
 S.No	Username	Password
 1	Dhruvil		dhruvil123
-2	Margi		margi123
-3	Jinesh		jinesh123	
-4	Nirmit		nirmit123
-5	Admin		admin123
+2	Admin		admin123
